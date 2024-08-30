@@ -14,7 +14,7 @@
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://rohloffmeister.github.io/blog-preview-card-challange/)
+- Live Site URL: [GitHub Pages](https://rohloffmeister.github.io/recipe-page-main/)
 
 ### My Process
 
@@ -24,12 +24,11 @@
 
 
 ### What I learned
-CSS Flex
-CSS aligning 
+Selector(:first-child,:last-child)
 
 
 ## Author
 
 - Website - [Rohloffmeister](https://steamcommunity.com/id/Rohloffmeister/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Rohloffmeister)
+- Frontend Mentor - [@Rohoffmeister](https://www.frontendmentor.io/profile/Rohloffmeister)
 - Twitter - [@rohloffmeister](https://www.twitter.com/Rohloffmeister)
